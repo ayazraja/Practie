@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InTest</string>
+    <string name="title_activity_receive_msg">receiveMsg</string>
+</resources>
